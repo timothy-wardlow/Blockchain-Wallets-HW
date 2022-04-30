@@ -1,6 +1,6 @@
 ## Unit 19 Homework: Cryptocurrency Wallet
 
-#### Solutions can be found here: https://github.com/timothy-wardlow/Blockchain-Wallets-HW/Solutions
+#### Solutions can be found here: https://github.com/timothy-wardlow/Blockchain-Wallets-HW/tree/main/Solutions
 #### Screenshots can be found at the bottom of this README file. 
 
 ![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
