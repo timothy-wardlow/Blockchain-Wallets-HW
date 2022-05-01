@@ -113,7 +113,7 @@ Now it's time to put it all together and test the Fintech Finder application wit
 
 ![Image 0](Images/Blockchain-Wallets-0.png)
 
-![Image 1_](Images/Blockchain-Wallets-1.png)
+![Image 1](Images/Blockchain-Wallets-1.png)
 
 ![Image 2](Images/Blockchain-Wallets-2.png)
 
