@@ -317,4 +317,4 @@ get_people()
 # 6. Navigate to the Ganache transactions tab and locate the transaction.
     # * Click the transaction and take a screenshot of it.
     # Save this screenshot to the README.md file of your GitHub repository for
-    #  this Challenge assignment.
+    #  this Challenge assignment

@@ -108,5 +108,12 @@ Now it's time to put it all together and test the Fintech Finder application wit
 
 * Take a screenshot of the recipient’s address balance and history from your Ganache application. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
 
+![Image 0](Images/Blockchain-Wallets-0.png)
+
 ![Image 1](Images/Blockchain-Wallets-1.png)
+
 ![Image 2](Images/Blockchain-Wallets-2.png)
+
+![Image 3](Images/Blockchain-Wallets-3.png)
+
+![Image 4](Images/Blockchain-Wallets-4.png)
